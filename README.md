@@ -17,11 +17,11 @@
 
   <br>
 
-  [![Github Stats By AleksandraKaminska](https://github-readme-stats.vercel.app/api?username=aleksandrakaminska&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+  ![Github Stats By AleksandraKaminska](https://github-readme-stats.vercel.app/api?username=aleksandrakaminska&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ---
 
-### - Languages and Tools...
+### Languages and Tools...
 
 <p align="center">
 
@@ -29,18 +29,23 @@
 
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/css3.svg" alt="java" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/sass.svg" alt="java" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/html.svg" alt="java" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/misc/web.svg" alt="java" style="vertical-align:top; margin:4px">
 
 ---
 
 </p>
 
-### - I'm currently...
+### I'm currently...
 
-💻 Colaborating Spree (https://github.com/spree/spree)
-⚛️ Improving my React skills.
-🧠 Learning TypeScript, GraphQL, Ruby on Rails.
-🎓 Studying of CS
+💻 Colaborating Spree (https://github.com/spree/spree) <br>
+⚛️ Improving my React skills. <br>
+🧠 Learning TypeScript, GraphQL, Ruby on Rails. <br>
+💪🏼 going to learn NodeJS, WebAssembly
+🎓 Studying of CS <br>
 
 ---
 
