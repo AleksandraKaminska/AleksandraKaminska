@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aleksandra</h1>
 <h3 align="center">A frontend developer from Poland</h3>
 
-![](https://media.giphy.com/media/QBGfW8HqzXzYDojCqo/giphy.gif)
-
+<p align="center">
+  <img src="https://media.giphy.com/media/QBGfW8HqzXzYDojCqo/giphy.gif" />
+</p>
 <br>
 
 I'm:
