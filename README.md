@@ -10,34 +10,46 @@
   <img src="https://media.giphy.com/media/QBGfW8HqzXzYDojCqo/giphy.gif" width="30%" />
 </p>
 
-<br><br>
-
-<samp>
-I'm:
-<br>
-- 💻 colaborating Spree (https://github.com/spree/spree)
-<br>
-- 🧠 currently learning: TypeScript, GraphQL, Ruby On Rails
-<br>
-- 💪🏼 going to learn: NodeJS, WebAssembly
-<br>
-- 🎓 a student of CS
-</samp>
-
 <br><br> 
+
+<details>
+  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
+
+  <br>
+
+  [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=aleksandrakaminska&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="aleksandrakaminska)
+
+---
 
 ### - Languages and Tools...
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="HTML" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="JavaScript" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="REACT" style="vertical-align:top; margin:4px">
+
+  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
+
+---
+
 </p>
 
+### - I'm currently...
+
+💻 Colaborating Spree (https://github.com/spree/spree)
+⚛️ Improving my React skills.
+🧠 Learning TypeScript, GraphQL, Ruby on Rails.
+🎓 Studying of CS
+
+---
+
+</details>
+
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=aleksandrakaminska&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="aleksandrakaminska" /> 
+  <i> Let's connect and chat! :incoming_envelope: </i>
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/aleksandra-kamińska" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aleksandra-kamińska" height="40" width="40" /></a>
+  <a href="https://linkedin.com/in/aleksandra-kamińska"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
 </p>
