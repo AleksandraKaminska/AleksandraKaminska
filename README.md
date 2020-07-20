@@ -17,7 +17,7 @@
 
   <br>
 
-  ![Github Stats By AleksandraKaminska](https://github-readme-stats.vercel.app/api?username=aleksandrakaminska&show_icons=true&title_color=fc7e2f&icon_color=f40552&text_color=c3edea&bg_color=f8f3eb)
+  ![Github Stats By AleksandraKaminska](https://github-readme-stats.vercel.app/api?username=aleksandrakaminska&show_icons=true&title_color=30e3ca&icon_color=11999e&text_color=40514e&bg_color=e4f9f5)
 
 ---
 
