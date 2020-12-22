@@ -55,5 +55,5 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/aleksandra-kamińska"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+  <a href="https://linkedin.com/in/aleksandra-kamińska"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
 </p>
