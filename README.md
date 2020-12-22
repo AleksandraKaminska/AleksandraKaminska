@@ -38,14 +38,6 @@
 
 </p>
 
-### I'm currently...
-
-💻 Colaborating Spree (https://github.com/spree/spree) <br>
-⚛️ Improving my React skills. <br>
-🧠 Learning TypeScript, GraphQL, Ruby on Rails, node.js. <br>
-💪🏼 going to learn WebAssembly <br>
-🎓 Studying CS <br>
-
 ---
 
 </details>
