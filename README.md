@@ -37,22 +37,6 @@ TypeScript   5 hrs 3 mins    █████████████████
 
 <!--END_SECTION:waka-->
 
-### 🚀 GitHub Stats (This is lying, I barely know C#)
-
-<center>
-  <table cellspacing="0" cellpadding="0" style="border:none;">
-    <tr>
-      <td><img width="500px" align="left" src="https://github-readme-stats.vercel.app/api?username=AleksandraKaminska&show_icons=true&hide_border=true&count_private=true&theme=calm"/></td>
-	    <td>
-      <img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleksandraKaminska&show_icons=true&hide_border=true&count_private=true&theme=calm" />
-      </td>
-    </tr>   
-	  <tr><td><img src="https://camo.githubusercontent.com/e5d224eaa5a3280e2ba8f97bc2a8d5b964523bc13bf97d261f4c625fea9e4886/687474703a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d3f757365723d416c656b73616e6472614b616d696e736b61267468656d653d63616c6d26686964655f626f726465723d7472756526646174655f666f726d61743d6a2532304d25354225323059253544" alt="GitHub Streak" data-canonical-src="http://github-readme-streak-stats.herokuapp.com?user=AleksandraKaminska&amp;theme=calm&amp;hide_border=true&amp;date_format=j%20M%5B%20Y%5D" style="max-width: 100%;"></td>
-	  <td></td>
-	  </tr>
-  </table>
-</center>
-
 ### 📨 Contact
 
 Please hesitate to contact me. If you have to, only on <a href="https://linkedin.com/in/aleksandra-kamińska">LinkedIn</a> 🙂.
