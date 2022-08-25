@@ -32,9 +32,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   43 hrs 9 mins   ████████████████████░░░░░   80.04 %
-Ruby         8 hrs 20 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.47 %
-Other        1 hr 12 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+TypeScript   44 hrs 5 mins   ████████████████████░░░░░   79.43 %
+Ruby         9 hrs 36 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.32 %
+Other        47 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
 ```
 
 <!--END_SECTION:waka-->
