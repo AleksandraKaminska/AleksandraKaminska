@@ -32,7 +32,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+TypeScript   3 hrs 57 mins   ████████████▓░░░░░░░░░░░░   50.01 %
+SCSS         2 hrs 40 mins   ████████▒░░░░░░░░░░░░░░░░   33.79 %
+Ruby         34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
+YAML         19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
+Markdown     15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
+XML          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
 ```
 
 <!--END_SECTION:waka-->
