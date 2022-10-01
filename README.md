@@ -4,10 +4,9 @@
 
 <br/>
 
-- 💻 I use daily **Typescript**, **React** and **Ruby on Rails** (but I prefer front-end 🦄).
-- 👩🏻‍🎓 Bachelor of Engineering in Computer Science (but under the hood I'm a mathematician 🦸🏻‍♀️).
-- 🤟🏻 Check my **new project** [migit.pl](https://migit.pl/), an online course for learning sign language
-- ... but I guess [this music app](https://navyplayer.netlify.app/) will be more interesting for you 🫠 
+- 💻 I use daily **Typescript**, **React**, **Ruby on Rails** and some **NestJS**.
+- 🤟🏻 Enthusiastic of sign languages, check my **new project** [migit.pl](https://migit.pl/), an online course for learning Polish sign language
+- 🎧 my first personal project - [navyplayer](https://navyplayer.netlify.app/)
 
 ### 👩🏻‍💻 Languages and Tools
 
