@@ -31,12 +31,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   5 hrs           █████████████████████░░░░   83.84 %
-SCSS         35 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 %
-Ruby         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
-YAML         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-Bash         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
-GraphQL      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
