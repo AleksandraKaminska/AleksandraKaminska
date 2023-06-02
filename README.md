@@ -30,7 +30,7 @@
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 TypeScript   20 hrs 21 mins  █████████████████▓░░░░░░░   71.18 %
 Ruby         5 hrs 39 mins   █████░░░░░░░░░░░░░░░░░░░░   19.80 %
 Markdown     42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
