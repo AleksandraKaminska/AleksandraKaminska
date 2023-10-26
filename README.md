@@ -1,11 +1,10 @@
-<h1 align="center">Hi, I'm Ola (or Aleksandra 🧐)</h1>
+<h1 align="center">Hi, I'm Ola</h1>
 
 ### 💅 About Me
 
 <br/>
 
-- 💻 I use daily **Typescript**, **React**, **Ruby on Rails** and some **NestJS**.
-- 🤟🏻 Enthusiastic of sign languages, check my **new project** [migit.pl](https://migit.pl/), an online course for learning Polish sign language
+- 💻 I use daily **Typescript**, **React** and **Ruby on Rails**.
 - 🎧 my first personal project - [navyplayer](https://navyplayer.netlify.app/)
 
 ### 👩🏻‍💻 Languages and Tools
@@ -26,7 +25,7 @@
 </p>
 <br/>
 
-**This week i spent my time on:**
+**This week I spent my time on:**
 
 <!--START_SECTION:waka-->
 
