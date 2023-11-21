@@ -30,11 +30,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   4 hrs 25 mins   ███████████████████▓░░░░░   78.10 %
-Ruby         1 hr 10 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.85 %
-CSS          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-ERB          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
