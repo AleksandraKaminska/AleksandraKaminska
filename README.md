@@ -41,4 +41,4 @@ Other        20 mins         ▒░░░░░░░░░░░░░░░░
 
 ### 📨 Contact
 
-Please hesitate to contact me. If you have to, only on <a href="https://linkedin.com/in/aleksandra-kamińska">LinkedIn</a> 🙂.
+<a href="https://linkedin.com/in/aleksandra-kamińska">LinkedIn</a>
