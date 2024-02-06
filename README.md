@@ -9,21 +9,12 @@
 
 ### 👩🏻‍💻 Languages and Tools
 
-<br/>
-<p align="center">
+#### Frontend
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width='50' style="margin:30px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="ts" width='50' style="margin:30px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="js" width='50' style="margin:30px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" alt="nest" width='50' style="margin:30px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg" alt="rails" width='50' style="margin:30px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" alt="graphql" width='50' style="margin:30px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width='50' style="margin:30px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width='50' style="margin:30px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width='50' style="margin:30px">
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,scss,tailwind)](https://skillicons.dev)
 
-</p>
-<br/>
+#### Backend
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,rails,graphql)](https://skillicons.dev)
 
 **This week I spent my time on:**
 
@@ -41,4 +32,8 @@ SCSS         0 secs          ░░░░░░░░░░░░░░░░░
 
 ### 📨 Contact
 
-<a href="https://linkedin.com/in/aleksandra-kamińska">LinkedIn</a>
+<a href="https://linkedin.com/in/aleksandra-kamińska">
+  
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+
+</a>
