@@ -31,9 +31,5 @@ SCSS         0 secs          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ### 📨 Contact
-
-<a href="https://linkedin.com/in/aleksandra-kamińska">
   
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
-
-</a>
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)]([https://skillicons.dev](https://linkedin.com/in/aleksandra-kamińska)https://linkedin.com/in/aleksandra-kamińska)
