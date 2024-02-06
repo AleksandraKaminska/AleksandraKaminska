@@ -32,4 +32,4 @@ SCSS         0 secs          ░░░░░░░░░░░░░░░░░
 
 ### 📨 Contact
   
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)]([https://skillicons.dev](https://linkedin.com/in/aleksandra-kamińska)https://linkedin.com/in/aleksandra-kamińska)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/aleksandra-kamińska)
